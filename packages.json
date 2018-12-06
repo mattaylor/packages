@@ -1,4 +1,13 @@
 [
+  { 
+    "name": "elvis", 
+    "url": "https://github.com/mtaylor/elvis",
+    "method": "git",
+    "tags": [ "truthy", "falsy", "ternary", "coalesce", "nil", "none", "exceptions", "null", "operators", "elvis" ],
+    "description": "Truthy (`?`), Elvis `?:` and Ternary `? !` operators for non boolean conditonals.",
+    "website": "https://github.com/mattaylor/elvis",
+    "license": "MIT",
+  }, 
   {
     "name": "nimrun",
     "url": "https://github.com/lee-b/nimrun",
